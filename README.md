@@ -9,8 +9,8 @@
 
 今週はまずはGitの操作について勉強しました。  
 
-‐ Centralized version control ＆　Distributed version control
-‐ Git repository
+‐ git Centralized version control ＆　Distributed version control
+‐ git repository
 - git init
 - git status
 - git add
