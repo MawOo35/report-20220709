@@ -3,7 +3,7 @@
 - Gitのハンズオンを終わらせる
 - GitHubのPull Requestを作成してみる
 - Java SE を勉強する
-‐　React　を勉強する
+‐ React　を勉強する
 
 # やってみたこと
 
@@ -24,8 +24,8 @@
 - git pull request and merge
 といったコマンドを使ってソースコードをGitHubにpushすることができました。
 
-＃　Java EE
-‐　JavaEE を　使って簡単なプロジェクトを作りました。
+　Java EE
+　JavaEE を　使って簡単なプロジェクトを作りました。
 
 # これから勉強したいこと
 
