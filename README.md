@@ -24,7 +24,7 @@
 - git pull request and merge
 といったコマンドを使ってソースコードをGitHubにpushすることができました。
 
-　Java EE
+　
 　JavaEE を　使って簡単なプロジェクトを作りました。
 
 # これから勉強したいこと
